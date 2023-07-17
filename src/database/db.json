@@ -1,0 +1,68 @@
+{
+  "employee": [
+    {
+      "employeeid": "15230",
+      "name": "Alexa",
+      "email": "alexa201@gmail.com",
+      "jobrole": "FullStack Developer",
+      "salary": "42500",
+      "id": 1
+    },
+    {
+      "employeeid": "15204",
+      "name": "Peter",
+      "email": "peter30@gmail.com",
+      "jobrole": "Frontend Developer",
+      "salary": "36500",
+      "id": 2
+    },
+    {
+      "employeeid": "15600",
+      "name": "Nancy",
+      "email": "nancy85@gmail.com",
+      "jobrole": "Backend Developer",
+      "salary": "32000",
+      "id": 3
+    },
+    {
+      "employeeid": "15542",
+      "name": "Elon Musk",
+      "email": "musk055@gmal.com",
+      "jobrole": "FullStack Developer",
+      "salary": "78500",
+      "id": 4
+    },
+    {
+      "employeeid": "14530",
+      "name": "xinchong",
+      "email": "xinchong63@gmail.com",
+      "jobrole": "FullStack Developer",
+      "salary": "38400",
+      "id": 5
+    },
+    {
+      "employeeid": "45566",
+      "name": "zukarburg",
+      "email": "mark@gmail.com",
+      "jobrole": "Backend Developer",
+      "salary": "63200",
+      "id": 6
+    },
+    {
+      "employeeid": "15235",
+      "name": "Alina",
+      "email": "alina452@gmail.com",
+      "jobrole": "Frontend Developer",
+      "salary": "35000",
+      "id": 7
+    },
+    {
+      "employeeid": "15420",
+      "name": "Ava",
+      "email": "ava1003@gmail.com",
+      "jobrole": "FullStack Developer",
+      "salary": "54500",
+      "id": 8
+    }
+  ]
+}
